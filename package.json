@@ -1,6 +1,6 @@
 {
-    "name": "com.beio.unityhelper",
-    "version": "0.0.1",
+    "name": "com.beio.helper",
+    "version": "0.0.2",
     "displayName": "Support Unity Helper",
     "description": "Supporting Unity help functions",
     "unity": "2019.1",

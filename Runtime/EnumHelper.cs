@@ -4,7 +4,7 @@ namespace beio.Helper
 {
     public static partial class EnumHelper
     {
-        public unsafe static E ToEnum<E>(this object value) where E : unmanaged, Enum
+        public static E ToEnum<E>(this object value) where E : unmanaged, Enum
         {
             return (E)value;
         }
